@@ -1,3 +1,14 @@
+This repo is to test the automata/react-wallet-sdk module with NextJs frameworks
+
+```
+npm install @automata-network/react-wallet-sdk
+
+import { Wallet, WalletProvider } from '@automata-network/react-wallet-sdk'
+import '@automata-network/react-wallet-sdk/style.css'
+
+add WalletProvider, Wallet
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
